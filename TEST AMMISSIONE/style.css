@@ -1,0 +1,53 @@
+body{
+    background-image: url(immagini/background.jpg)  ;
+    background-size: cover;
+}
+.container{ 
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+    text-align: center; 
+    background-color: rgba(25, 25, 25, .5);    
+    padding: 6%;
+    border-radius: 15px;
+}
+header div { /*taking booleaners*/
+    color:lime;
+    font-size: 35px;
+    font-weight: 5000;
+    margin-bottom: 0.5em;
+}
+nav div{ /*bottoni*/
+    background-color: lime;
+    padding: 9px;
+    width: 95%;
+}
+main{
+    text-align: left;
+    color: white;
+    font-size: 20px;
+} 
+.gino22{
+    padding: 15px;
+    background-color: orange;  
+    margin-right: 65%;
+    border-radius: 10px;      
+}
+.mike24{
+    padding: 15px;
+    background-color: rgb(10, 224, 10);  
+    margin-right: 35%;
+    border-radius: 10px;
+}
+.fede154{
+    padding: 15px;
+    background-color: red;  
+    margin-right: 85%;
+    border-radius: 10px;
+}
+h3{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+}
